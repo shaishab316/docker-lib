@@ -1,6 +1,6 @@
 # Floci Cheatsheet
-> Free, open-source local AWS emulator. Drop-in replacement for LocalStack. No auth token. No restrictions.
 
+> docker compose -f floci.yaml up -d
 
 ---
 

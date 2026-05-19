@@ -1,5 +1,8 @@
 # Redis Cheatsheet
 
+
+> docker compose -f redis.yaml up -d
+
 ---
 
 ## 1. Connect

@@ -1,5 +1,8 @@
 # PostgreSQL Cheatsheet
 
+> docker compose -f postgres.yaml up -d
+
+
 ---
 
 ## 1. Connect
