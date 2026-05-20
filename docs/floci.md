@@ -1,6 +1,8 @@
 # Floci Cheatsheet
 
-> docker compose -f floci.yaml up -d
+```bash
+docker compose -f floci.yaml up -d
+```
 
 ---
 

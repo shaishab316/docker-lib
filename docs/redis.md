@@ -1,7 +1,8 @@
 # Redis Cheatsheet
 
-
-> docker compose -f redis.yaml up -d
+```bash
+docker compose -f redis.yaml up -d
+```
 
 ---
 

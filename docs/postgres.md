@@ -1,7 +1,8 @@
 # PostgreSQL Cheatsheet
 
-> docker compose -f postgres.yaml up -d
-
+```bash
+docker compose -f postgres.yaml up -d
+```
 
 ---
 
