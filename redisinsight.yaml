@@ -1,0 +1,8 @@
+services:
+  redisinsight:
+    image: redis/redisinsight:latest
+    container_name: redisinsight
+    ports:
+      - "5540:5540"
+    extra_hosts:
+      - "host.docker.internal:host-gateway"

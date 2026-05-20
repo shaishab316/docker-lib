@@ -1,6 +1,7 @@
 # Docker Lib Docs
 
 - [PostgreSQL](postgres)
-- [Pgadmin](pgadmin)
+- [Pg Admin](pgadmin)
 - [Redis](redis)
+- [Redis Insight](redisinsight)
 - [Floci](floci)
