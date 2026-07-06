@@ -15,6 +15,12 @@ services:
       interval: 10s
       timeout: 5s
       retries: 5
+    networks:
+      - shared_net
 
 volumes:
   postgres_data:
+
+networks:
+  shared_net:
+    external: true
